@@ -1,0 +1,151 @@
+﻿Sample_ID,Participant_ID,Source_Row,Scenario_ID,Scenario_Name,Raw_Text,Label_Code,Clean_Text,Script_Type,Quality_Flag,Keep_Status,Duplicate_Check,Dataset_Split
+S0023,P002,3,1,Academic Stress,පුදුම stress එකක්නෙ ,2,පුදුම stress එකක්නෙ,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0024,P002,3,2,Campus Injustice,මාර කේන්ති මට,2,මාර කේන්ති මට,Sinhala Script,OK,KEEP,OK,Validation
+S0025,P002,3,3,Campus Culture/Ragging,වදයක් නේ මාර තරහක් එන්නෙ,2,වදයක් නේ මාර තරහක් එන්නෙ,Sinhala Script,OK,KEEP,OK,Validation
+S0026,P002,3,4,Financial Stress,එපාවෙලා තියෙන්නේ හැමදාම සල්ලි නැ ,1,එපාවෙලා තියෙන්නේ හැමදාම සල්ලි නැ,Sinhala Script,OK,KEEP,OK,Validation
+S0027,P002,3,5,Logistics/Food Issues,මෙලො රහක් නැ කන්න හිතෙන්නැ,1,මෙලො රහක් නැ කන්න හිතෙන්නැ,Sinhala Script,OK,KEEP,OK,Validation
+S0028,P002,3,6,Group Project Stress,Contribution නම් බලාපොරොත්තු වෙන්න එපා මට තනියම වැඩ කරන්න බැ නෙ ,1,Contribution නම් බලාපොරොත්තු වෙන්න එපා මට තනියම වැඩ කරන්න බැ නෙ,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0029,P002,3,7,Isolation,පාඩුවෙ හිටියනම් ඉවරයි,1,පාඩුවෙ හිටියනම් ඉවරයි,Sinhala Script,OK,KEEP,OK,Validation
+S0030,P002,3,8,Academic Success - Difficult Subject,හිතුවෙ නැ නෙ මෙච්චර හොද රිසල්ට් එකක් එයි කියල,3,හිතුවෙ නැ නෙ මෙච්චර හොද රිසල්ට් එකක් එයි කියල,Sinhala Script,OK,KEEP,OK,Validation
+S0031,P002,3,9,Academic Success - Repeat Subject,අම්මො ඔයින් ගියා මදැයි,3,අම්මො ඔයින් ගියා මදැයි,Sinhala Script,OK,KEEP,OK,Validation
+S0032,P002,3,10,Freedom-Final Paper,අම්මො ලොකු දෙයක් ,4,අම්මො ලොකු දෙයක්,Sinhala Script,OK,KEEP,OK,Validation
+S0033,P002,3,11,Lightness-Final Paper,යන්තම් ඒකත් ඉවරයි,4,යන්තම් ඒකත් ඉවරයි,Sinhala Script,OK,KEEP,OK,Validation
+S0034,P002,3,12,Social Evant - Batch Trip,Fun තමයි,5,Fun තමයි,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0035,P002,3,13,Social Evant - Campus Evant,සුපිරි ඉතිං,5,සුපිරි ඉතිං,Sinhala Script,OK,KEEP,OK,Validation
+S0036,P002,3,14,Personal Win - Stipand/Mahapola,සල්ලි වැටිලා ,5,සල්ලි වැටිලා,Sinhala Script,OK,KEEP,OK,Validation
+S0037,P002,3,15,Personal Win - Internship,කල් ගියා හැබැයි හොද internship එකක් හම්බුනෙ,5,කල් ගියා හැබැයි හොද internship එකක් හම්බුනෙ,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0038,P002,3,16,Lectures - Attendance,මේ හෙට attendance අනිවාර්ය ද,3,මේ හෙට attendance අනිවාර්ය ද,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0039,P002,3,17,Lectures - Cancellation,⁣lectures cancel ද,3,⁣lectures cancel ද,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0040,P002,3,18,Commuting,තව ටිකක් දුරයි පැය දෙකක් වගෙ යයි,3,තව ටිකක් දුරයි පැය දෙකක් වගෙ යයි,Sinhala Script,OK,KEEP,OK,Validation
+S0041,P002,3,19,Notes - PDF Request,ඔයා ලග note ඔක්කොම තියනවද,4,ඔයා ලග note ඔක්කොම තියනවද,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0042,P002,3,20,Wi-Fi Password Request ,ඒ මට wifi password එක දෙනවද ඩේ⁣ට නැ ,4,ඒ මට wifi password එක දෙනවද ඩේ⁣ට නැ,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0043,P002,3,21,Food - Canteen Menu,දවල්ට කන්න කැන්ටින් එකෙ මොනාද දන්නැ තියෙන්නෙ,4,දවල්ට කන්න කැන්ටින් එකෙ මොනාද දන්නැ තියෙන්නෙ,Sinhala Script,OK,KEEP,OK,Validation
+S0044,P002,3,22,Food - Let's Eat,කාල එමු        ,4,කාල එමු,Sinhala Script,OK,KEEP,OK,Validation
+S0265,P013,14,1,Academic Stress,Aiyoo mata epaa wenawa haloo. Mekata thawa sathiyak wath kal dunna nam mokada wenne ,1,Aiyoo mata epaa wenawa haloo. Mekata thawa sathiyak wath kal dunna nam mokada wenne,Latin/Romanized,OK,KEEP,OK,Validation
+S0266,P013,14,2,Campus Injustice,E manussyat nam pissu tiyenne ,1,E manussyat nam pissu tiyenne,Latin/Romanized,OK,KEEP,OK,Validation
+S0267,P013,14,3,Campus Culture/Ragging,Mn adnw ,1,Mn adnw,Latin/Romanized,OK,KEEP,OK,Validation
+S0268,P013,14,4,Financial Stress,Ane mt kiyak hri hmbuna nm ,3,Ane mt kiyak hri hmbuna nm,Latin/Romanized,OK,KEEP,OK,Validation
+S0269,P013,14,5,Logistics/Food Issues,Mita wada hodai gedara idgrnma enn tibuna nm ,2,Mita wada hodai gedara idgrnma enn tibuna nm,Latin/Romanized,OK,KEEP,OK,Validation
+S0270,P013,14,6,Group Project Stress,Mun okkom mgen kaka inn wenn athi kmti,1,Mun okkom mgen kaka inn wenn athi kmti,Latin/Romanized,OK,KEEP,OK,Validation
+S0271,P013,14,7,Isolation,Mata me loke adre krnn kawuruwath nh ,1,Mata me loke adre krnn kawuruwath nh,Latin/Romanized,OK,KEEP,OK,Validation
+S0272,P013,14,8,Academic Success - Difficult Subject,වාව් මං හිතුවෙ නෑ මට මෙච්චර හොද රිසල්ට් එකක් තියෙයි කියල,5,වාව් මං හිතුවෙ නෑ මට මෙච්චර හොද රිසල්ට් එකක් තියෙයි කියල,Sinhala Script,OK,KEEP,OK,Validation
+S0273,P013,14,9,Academic Success - Repeat Subject,මං මහන්සි උන තරමට රිසල්ට් තියනව ඉතින් ,5,මං මහන්සි උන තරමට රිසල්ට් තියනව ඉතින්,Sinhala Script,OK,KEEP,OK,Validation
+S0274,P013,14,10,Freedom-Final Paper,අම්මෝ ඇති යන්තන් ඒකත් ඉවරයි,5,අම්මෝ ඇති යන්තන් ඒකත් ඉවරයි,Sinhala Script,OK,KEEP,OK,Validation
+S0275,P013,14,11,Lightness-Final Paper,අම්මෝ ඒ කරදරෙත් ඉවර උනා ,5,අම්මෝ ඒ කරදරෙත් ඉවර උනා,Sinhala Script,OK,KEEP,OK,Validation
+S0276,P013,14,12,Social Evant - Batch Trip,මං එහෙම ට්‍රිප් එකක් ගිහින් නෑ,2,මං එහෙම ට්‍රිප් එකක් ගිහින් නෑ,Sinhala Script,OK,KEEP,OK,Validation
+S0277,P013,14,13,Social Evant - Campus Evant,හරිම නිදහස්,5,හරිම නිදහස්,Sinhala Script,OK,KEEP,OK,Validation
+S0278,P013,14,14,Personal Win - Stipand/Mahapola,අනේ හලෝ සල්ලි වැටිලා. මේ පාර නම් මං හොදට ශොපින් කරනව,5,අනේ හලෝ සල්ලි වැටිලා. මේ පාර නම් මං හොදට ශොපින් කරනව,Sinhala Script,OK,KEEP,OK,Validation
+S0279,P013,14,15,Personal Win - Internship,මං හොයපු තැනින්ම ජොබ් එක හම්බුනා ,5,මං හොයපු තැනින්ම ජොබ් එක හම්බුනා,Sinhala Script,OK,KEEP,OK,Validation
+S0280,P013,14,16,Lectures - Attendance,හෙට ආවේ නැති උනාට අවුලක් නෑ නේද ,3,හෙට ආවේ නැති උනාට අවුලක් නෑ නේද,Sinhala Script,OK,KEEP,OK,Validation
+S0281,P013,14,17,Lectures - Cancellation,හලෝ හෙට ලෙක්චර්ස් තියනවද ,3,හලෝ හෙට ලෙක්චර්ස් තියනවද,Sinhala Script,OK,KEEP,OK,Validation
+S0282,P013,14,18,Commuting,මං එද්දි 8 පහුවෙයි හලෝ අද මේක ටිකක් හිමිට එන්නෙ ,2,මං එද්දි 8 පහුවෙයි හලෝ අද මේක ටිකක් හිමිට එන්නෙ,Sinhala Script,OK,KEEP,OK,Validation
+S0283,P013,14,19,Notes - PDF Request,මේ ගිය සතියෙ සෙනසුරාදා උදේ තිබුනු ලෙක්චර් එකේ නෝට් එක මට දාන්නකෝ,5,මේ ගිය සතියෙ සෙනසුරාදා උදේ තිබුනු ලෙක්චර් එකේ නෝට් එක මට දාන්නකෝ,Sinhala Script,OK,KEEP,OK,Validation
+S0284,P013,14,20,Wi-Fi Password Request ,මට ඔයාගෙ වයිෆයි පාස්වර්ඩ් එක දෙන්න පුලුවන්ද ,5,මට ඔයාගෙ වයිෆයි පාස්වර්ඩ් එක දෙන්න පුලුවන්ද,Sinhala Script,OK,KEEP,OK,Validation
+S0285,P013,14,21,Food - Canteen Menu,අද මොනාද දන්නෙ නෑ නේද තියෙන්නෙ ,3,අද මොනාද දන්නෙ නෑ නේද තියෙන්නෙ,Sinhala Script,OK,KEEP,OK,Validation
+S0286,P013,14,22,Food - Let's Eat,හලෝ අපි කාලා එමුකෝ මට  හොදටම බඩගිනී,5,හලෝ අපි කාලා එමුකෝ මට හොදටම බඩගිනී,Sinhala Script,OK,KEEP,OK,Validation
+S0310,P015,16,2,Campus Injustice,Paduwe innawa,3,Paduwe innawa,Latin/Romanized,OK,KEEP,OK,Validation
+S0311,P015,16,3,Campus Culture/Ragging,Mokut nokora paduwe innawa,3,Mokut nokora paduwe innawa,Latin/Romanized,OK,KEEP,OK,Validation
+S0312,P015,16,4,Financial Stress,Salli pirimahan wada karanawa,5,Salli pirimahan wada karanawa,Latin/Romanized,OK,KEEP,OK,Validation
+S0313,P015,16,5,Logistics/Food Issues,Kate tiyanna ba canteen eka cama,1,Kate tiyanna ba canteen eka cama,Latin/Romanized,OK,KEEP,OK,Validation
+S0314,P015,16,6,Group Project Stress,Mata okkoma taniyama karanna ba ,1,Mata okkoma taniyama karanna ba,Latin/Romanized,OK,KEEP,OK,Validation
+S0315,P015,16,7,Isolation,Mata paduwa inna oni,5,Mata paduwa inna oni,Latin/Romanized,OK,KEEP,OK,Validation
+S0316,P015,16,8,Academic Success - Difficult Subject,Mn goda bn,5,Mn goda bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0317,P015,16,9,Academic Success - Repeat Subject,Yantan goda giya ekat,3,Yantan goda giya ekat,Latin/Romanized,OK,KEEP,OK,Validation
+S0318,P015,16,10,Freedom-Final Paper,Niwan giya wage,3,Niwan giya wage,Latin/Romanized,OK,KEEP,OK,Validation
+S0319,P015,16,11,Lightness-Final Paper,Dan mn nidahas,3,Dan mn nidahas,Latin/Romanized,OK,KEEP,OK,Validation
+S0320,P015,16,12,Social Evant - Batch Trip,Eka patta,5,Eka patta,Latin/Romanized,OK,KEEP,OK,Validation
+S0321,P015,16,13,Social Evant - Campus Evant,Supiri,5,Supiri,Latin/Romanized,OK,KEEP,OK,Validation
+S0322,P015,16,14,Personal Win - Stipand/Mahapola,Niyamai ne ,5,Niyamai ne,Latin/Romanized,OK,KEEP,OK,Validation
+S0323,P015,16,15,Personal Win - Internship,Patta,5,Patta,Latin/Romanized,OK,KEEP,OK,Validation
+S0324,P015,16,16,Lectures - Attendance,Heta lec tiyanawada bn,5,Heta lec tiyanawada bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0325,P015,16,17,Lectures - Cancellation,Heta lec cancal wai da bn,5,Heta lec cancal wai da bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0326,P015,16,18,Commuting,Tawa wela yai bn,5,Tawa wela yai bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0327,P015,16,19,Notes - PDF Request,Mata notes tika denna puluwan da bn,5,Mata notes tika denna puluwan da bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0328,P015,16,20,Wi-Fi Password Request ,Wifi password eka dipan ko,5,Wifi password eka dipan ko,Latin/Romanized,OK,KEEP,OK,Validation
+S0329,P015,16,21,Food - Canteen Menu,Monada bn kanna tiyanne ada,5,Monada bn kanna tiyanne ada,Latin/Romanized,OK,KEEP,OK,Validation
+S0330,P015,16,22,Food - Let's Eat,Mona hari kamuda bn,5,Mona hari kamuda bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0573,P027,28,1,Academic Stress,Karuma jeewitha mewwa,1,Karuma jeewitha mewwa,Latin/Romanized,OK,KEEP,OK,Validation
+S0574,P027,28,2,Campus Injustice,Magula mt epa wela thiyenne,1,Magula mt epa wela thiyenne,Latin/Romanized,OK,KEEP,OK,Validation
+S0575,P027,28,3,Campus Culture/Ragging,Mun ekka be epawenwa campus ekth epa krnwa,1,Mun ekka be epawenwa campus ekth epa krnwa,Latin/Romanized,OK,KEEP,OK,Validation
+S0576,P027,28,4,Financial Stress,Salli wlta mona wenawda mnda,1,Salli wlta mona wenawda mnda,Latin/Romanized,OK,KEEP,OK,Validation
+S0577,P027,28,5,Logistics/Food Issues,Mala jarawa knnth be,1,Mala jarawa knnth be,Latin/Romanized,OK,KEEP,OK,Validation
+S0578,P027,28,6,Group Project Stress,Thopita contribution nam denne ne,1,Thopita contribution nam denne ne,Latin/Romanized,OK,KEEP,OK,Validation
+S0579,P027,28,7,Isolation,Mt mokekwath epa,1,Mt mokekwath epa,Latin/Romanized,OK,KEEP,OK,Validation
+S0580,P027,28,8,Academic Success - Difficult Subject,Ado marune,5,Ado marune,Latin/Romanized,OK,KEEP,OK,Validation
+S0581,P027,28,9,Academic Success - Repeat Subject,Amme athi yantham,5,Amme athi yantham,Latin/Romanized,OK,KEEP,OK,Validation
+S0582,P027,28,10,Freedom-Final Paper,Ekath iwarai,5,Ekath iwarai,Latin/Romanized,OK,KEEP,OK,Validation
+S0583,P027,28,11,Lightness-Final Paper,Loku deyak eka iwara una ekanm,5,Loku deyak eka iwara una ekanm,Latin/Romanized,OK,KEEP,OK,Validation
+S0584,P027,28,12,Social Evant - Batch Trip,Ado athal bn,5,Ado athal bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0585,P027,28,13,Social Evant - Campus Evant,Gemmak thamai,5,Gemmak thamai,Latin/Romanized,OK,KEEP,OK,Validation
+S0586,P027,28,14,Personal Win - Stipand/Mahapola,Ado salli wetila,5,Ado salli wetila,Latin/Romanized,OK,KEEP,OK,Validation
+S0587,P027,28,15,Personal Win - Internship,Hoda intern ekak hambuna,5,Hoda intern ekak hambuna,Latin/Romanized,OK,KEEP,OK,Validation
+S0588,P027,28,16,Lectures - Attendance,Attendance balaida bn,3,Attendance balaida bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0589,P027,28,17,Lectures - Cancellation,Lectures thiynwd cancel da bn,3,Lectures thiynwd cancel da bn,Latin/Romanized,OK,KEEP,OK,Validation
+S0590,P027,28,18,Commuting,Tikak wela yai bn thwa maga,3,Tikak wela yai bn thwa maga,Latin/Romanized,OK,KEEP,OK,Validation
+S0591,P027,28,19,Notes - PDF Request,Ane bn note tika diyanko,3,Ane bn note tika diyanko,Latin/Romanized,OK,KEEP,OK,Validation
+S0592,P027,28,20,Wi-Fi Password Request ,Wifi password eka diyanko,3,Wifi password eka diyanko,Latin/Romanized,OK,KEEP,OK,Validation
+S0593,P027,28,21,Food - Canteen Menu,Dawalta knna monada bn thiyenne,2,Dawalta knna monada bn thiyenne,Latin/Romanized,OK,KEEP,OK,Validation
+S0594,P027,28,22,Food - Let's Eat,Kala emuda,3,Kala emuda,Latin/Romanized,OK,KEEP,OK,Validation
+S0595,P028,29,1,Academic Stress,මචං හෙට assignment එකක් කරන්න තියෙනවා බං ,3,මචං හෙට assignment එකක් කරන්න තියෙනවා බං,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0596,P028,29,2,Campus Injustice,ඉවසන් ඉන්නවා,1,ඉවසන් ඉන්නවා,Sinhala Script,OK,KEEP,OK,Validation
+S0597,P028,29,3,Campus Culture/Ragging,ඉවසිම ,3,ඉවසිම,Sinhala Script,OK,KEEP,OK,Validation
+S0598,P028,29,4,Financial Stress,අයියො තව සල්ලි තිබ්බා නම්,3,අයියො තව සල්ලි තිබ්බා නම්,Sinhala Script,OK,KEEP,OK,Validation
+S0599,P028,29,5,Logistics/Food Issues,කනගාටුවෙන් මහා තරහින්,3,කනගාටුවෙන් මහා තරහින්,Sinhala Script,OK,KEEP,OK,Validation
+S0600,P028,29,6,Group Project Stress,වැඩ කරන්නැතුව ඉදලා ලකුණු බලාපොරොත්තු වෙන්න එපාා,1,වැඩ කරන්නැතුව ඉදලා ලකුණු බලාපොරොත්තු වෙන්න එපාා,Sinhala Script,OK,KEEP,OK,Validation
+S0601,P028,29,7,Isolation,ම්,1,ම්,Sinhala Script,OK,KEEP,OK,Validation
+S0602,P028,29,8,Academic Success - Difficult Subject,Wow,5,Wow,Latin/Romanized,OK,KEEP,CHECK DUPLICATE,Validation
+S0603,P028,29,9,Academic Success - Repeat Subject,Wow,5,Wow,Latin/Romanized,OK,KEEP,CHECK DUPLICATE,Validation
+S0604,P028,29,10,Freedom-Final Paper,සැනසිමක්,5,සැනසිමක්,Sinhala Script,OK,KEEP,OK,Validation
+S0607,P028,29,13,Social Evant - Campus Evant,නියමය්,3,නියමය්,Sinhala Script,OK,KEEP,OK,Validation
+S0608,P028,29,14,Personal Win - Stipand/Mahapola,සල්ලි වැඩුනා බං,3,සල්ලි වැඩුනා බං,Sinhala Script,OK,KEEP,OK,Validation
+S0610,P028,29,16,Lectures - Attendance,උබ⁣ හෙට යනවද?,1,උබ⁣ හෙට යනවද?,Sinhala Script,OK,KEEP,OK,Validation
+S0611,P028,29,17,Lectures - Cancellation,හෙට ලෙච්ච එක නැලු ද බං,4,හෙට ලෙච්ච එක නැලු ද බං,Sinhala Script,OK,KEEP,OK,Validation
+S0612,P028,29,18,Commuting,තව ටිකකින් ඔතන බං,3,තව ටිකකින් ඔතන බං,Sinhala Script,OK,KEEP,OK,Validation
+S0613,P028,29,19,Notes - PDF Request,අරකෙ pdf ටික දාහන් කො,5,අරකෙ pdf ටික දාහන් කො,Mixed Sinhala+Latin,OK,KEEP,OK,Validation
+S0614,P028,29,20,Wi-Fi Password Request ,මෙක ගහලා දියන්,5,මෙක ගහලා දියන්,Sinhala Script,OK,KEEP,OK,Validation
+S0615,P028,29,21,Food - Canteen Menu,අද මොනවද කන්නෙ,5,අද මොනවද කන්නෙ,Sinhala Script,OK,KEEP,OK,Validation
+S0616,P028,29,22,Food - Let's Eat,යමන් මොනවා හරි කන්න,5,යමන් මොනවා හරි කන්න,Sinhala Script,OK,KEEP,OK,Validation
+S0749,P035,36,1,Academic Stress,Mata stress vage,3,Mata stress vage,Latin/Romanized,OK,KEEP,OK,Validation
+S0750,P035,36,2,Campus Injustice,Mata godak dukai,3,Mata godak dukai,Latin/Romanized,OK,KEEP,OK,Validation
+S0751,P035,36,3,Campus Culture/Ragging,Mama ekata kemathi na,3,Mama ekata kemathi na,Latin/Romanized,OK,KEEP,OK,Validation
+S0752,P035,36,4,Financial Stress,Mata pissu vage,3,Mata pissu vage,Latin/Romanized,OK,KEEP,OK,Validation
+S0753,P035,36,5,Logistics/Food Issues,Mata kanna ba,3,Mata kanna ba,Latin/Romanized,OK,KEEP,OK,Validation
+S0754,P035,36,6,Group Project Stress,Mata epa vela,3,Mata epa vela,Latin/Romanized,OK,KEEP,OK,Validation
+S0755,P035,36,7,Isolation,Mama thaniwela vage,3,Mama thaniwela vage,Latin/Romanized,OK,KEEP,OK,Validation
+S0756,P035,36,8,Academic Success - Difficult Subject,Mata godak sathutui,4,Mata godak sathutui,Latin/Romanized,OK,KEEP,CHECK DUPLICATE,Validation
+S0757,P035,36,9,Academic Success - Repeat Subject,Mata sathutui,4,Mata sathutui,Latin/Romanized,OK,KEEP,CHECK DUPLICATE,Validation
+S0758,P035,36,10,Freedom-Final Paper,Mama dan nidahas,4,Mama dan nidahas,Latin/Romanized,OK,KEEP,OK,Validation
+S0759,P035,36,11,Lightness-Final Paper,Mama nidahas una,4,Mama nidahas una,Latin/Romanized,OK,KEEP,OK,Validation
+S0760,P035,36,12,Social Evant - Batch Trip,Mara sathutui,4,Mara sathutui,Latin/Romanized,OK,KEEP,OK,Validation
+S0761,P035,36,13,Social Evant - Campus Evant,Full hahappy ,4,Full hahappy,Latin/Romanized,OK,KEEP,OK,Validation
+S0762,P035,36,14,Personal Win - Stipand/Mahapola,Mata sathutui,4,Mata sathutui,Latin/Romanized,OK,KEEP,CHECK DUPLICATE,Validation
+S0763,P035,36,15,Personal Win - Internship,Mata godak sathutui,4,Mata godak sathutui,Latin/Romanized,OK,KEEP,CHECK DUPLICATE,Validation
+S0764,P035,36,16,Lectures - Attendance,Heta ennama onada,3,Heta ennama onada,Latin/Romanized,OK,KEEP,OK,Validation
+S0765,P035,36,17,Lectures - Cancellation,Lecture eka cancel da,3,Lecture eka cancel da,Latin/Romanized,OK,KEEP,OK,Validation
+S0766,P035,36,18,Commuting,Man enna peyak yanawa,3,Man enna peyak yanawa,Latin/Romanized,OK,KEEP,OK,Validation
+S0767,P035,36,19,Notes - PDF Request,Eka mata denawada,3,Eka mata denawada,Latin/Romanized,OK,KEEP,OK,Validation
+S0768,P035,36,20,Wi-Fi Password Request ,Mata passward denawada,3,Mata passward denawada,Latin/Romanized,OK,KEEP,OK,Validation
+S0769,P035,36,21,Food - Canteen Menu,Kama thiyenne monawada,4,Kama thiyenne monawada,Latin/Romanized,OK,KEEP,OK,Validation
+S0770,P035,36,22,Food - Let's Eat,Kala ewith veda karamu,4,Kala ewith veda karamu,Latin/Romanized,OK,KEEP,OK,Validation
+S1431,P066,67,1,Academic Stress,Appa heta mara wade mata assignment eka aye karanna wenawa ban,1,Appa heta mara wade mata assignment eka aye karanna wenawa ban,Latin/Romanized,OK,KEEP,OK,Validation
+S1432,P066,67,2,Campus Injustice,Aththatama mama baudda kenek nisa iwaseema thiyenawa eth loku asadaranayak nam palana adikariyata kiyanaw neethiyen wada karanawa,3,Aththatama mama baudda kenek nisa iwaseema thiyenawa eth loku asadaranayak nam palana adikariyata kiyanaw neethiyen wada karanawa,Latin/Romanized,OK,KEEP,OK,Validation
+S1433,P066,67,3,Campus Culture/Ragging,Iwasan innawa,3,Iwasan innawa,Latin/Romanized,OK,KEEP,OK,Validation
+S1434,P066,67,4,Financial Stress,Shik athe sathe na monawa karannad danne na,1,Shik athe sathe na monawa karannad danne na,Latin/Romanized,OK,KEEP,OK,Validation
+S1435,P066,67,5,Logistics/Food Issues,Me magul kanna ba. Rasath na. ,2,Me magul kanna ba. Rasath na.,Latin/Romanized,OK,KEEP,OK,Validation
+S1436,P066,67,6,Group Project Stress,Matama mewa karanna ba ,2,Matama mewa karanna ba,Latin/Romanized,OK,KEEP,OK,Validation
+S1437,P066,67,7,Isolation,Thamant thaman witharai,5,Thamant thaman witharai,Latin/Romanized,OK,KEEP,OK,Validation
+S1438,P066,67,8,Academic Success - Difficult Subject,Ade man hithuwe na mechchara puluwan kiyala,5,Ade man hithuwe na mechchara puluwan kiyala,Latin/Romanized,OK,KEEP,OK,Validation
+S1439,P066,67,9,Academic Success - Repeat Subject,Kiyanna wachana na,5,Kiyanna wachana na,Latin/Romanized,OK,KEEP,OK,Validation
+S1440,P066,67,10,Freedom-Final Paper,Amboo athi yantham dan nidahas,5,Amboo athi yantham dan nidahas,Latin/Romanized,OK,KEEP,OK,Validation
+S1441,P066,67,11,Lightness-Final Paper,Iwarai,5,Iwarai,Latin/Romanized,OK,KEEP,OK,Validation
+S1442,P066,67,12,Social Evant - Batch Trip,Patta happy,5,Patta happy,Latin/Romanized,OK,KEEP,OK,Validation
+S1443,P066,67,13,Social Evant - Campus Evant,Happy,5,Happy,Latin/Romanized,OK,KEEP,OK,Validation
+S1444,P066,67,14,Personal Win - Stipand/Mahapola,Ade salli awith,5,Ade salli awith,Latin/Romanized,OK,KEEP,OK,Validation
+S1445,P066,67,15,Personal Win - Internship,Ade man goda,5,Ade man goda,Latin/Romanized,OK,KEEP,OK,Validation
+S1446,P066,67,16,Lectures - Attendance,Me heta ennama oneda machan,3,Me heta ennama oneda machan,Latin/Romanized,OK,KEEP,OK,Validation
+S1447,P066,67,17,Lectures - Cancellation,Ado heta lecture  nadda,4,Ado heta lecture nadda,Latin/Romanized,OK,KEEP,OK,Validation
+S1448,P066,67,18,Commuting,Mama enna thawa wela yanawa mama ena gaman inne maga,3,Mama enna thawa wela yanawa mama ena gaman inne maga,Latin/Romanized,OK,KEEP,OK,Validation
+S1449,P066,67,19,Notes - PDF Request,Ane eda mata bari una note tika dennako,2,Ane eda mata bari una note tika dennako,Latin/Romanized,OK,KEEP,OK,Validation
+S1450,P066,67,20,Wi-Fi Password Request ,Ane mata data na. Wifi tikak denawada mage wade kara ganna,3,Ane mata data na. Wifi tikak denawada mage wade kara ganna,Latin/Romanized,OK,KEEP,OK,Validation
+S1451,P066,67,21,Food - Canteen Menu,Kama monawada kantime ada,3,Kama monawada kantime ada,Latin/Romanized,OK,KEEP,OK,Validation
+S1452,P066,67,22,Food - Let's Eat,Kala emu,3,Kala emu,Latin/Romanized,OK,KEEP,OK,Validation
