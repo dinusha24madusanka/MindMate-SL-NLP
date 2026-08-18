@@ -1,0 +1,174 @@
+Sample_ID,Participant_ID,Scenario_ID,Scenario_Name,Clean_Text,Intent_ID,Intent_Name,Script_Type,Dataset_Split
+S0199,P010,1,Academic Stress,ammat siriwela tiyenne,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S0200,P010,2,Campus Injustice,"Ninan innawa,Wenda widiytm",1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S0201,P010,3,Campus Culture/Ragging,Face krl blanna oni,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S0202,P010,4,Financial Stress,Hindila inne,2,FINANCIAL_STRESS,Latin/Romanized,Test
+S0203,P010,5,Logistics/Food Issues,Kama Hari na kynw,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S0204,P010,6,Group Project Stress,mokuth na,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S0205,P010,7,Isolation,Msg krnna,4,SOCIAL_ISOLATION,Latin/Romanized,Test
+S0206,P010,8,Academic Success - Difficult Subject,Mata sathutu deyk krnawa,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S0207,P010,9,Academic Success - Repeat Subject,Kemathi deyak kranawa/karanwa,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S0208,P010,10,Freedom-Final Paper,Hondata nida gamnawa,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S0209,P010,11,Lightness-Final Paper,Hinawela,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S0210,P010,12,Social Evant - Batch Trip,E athal 1 liyanna ba,7,SOCIAL_EVENT,Latin/Romanized,Test
+S0211,P010,13,Social Evant - Campus Evant,Supiriyak,7,SOCIAL_EVENT,Latin/Romanized,Test
+S0212,P010,14,Personal Win - Stipand/Mahapola,Watila kyl,8,PERSONAL_WIN,Latin/Romanized,Test
+S0213,P010,15,Personal Win - Internship,Wade set una,8,PERSONAL_WIN,Latin/Romanized,Test
+S0214,P010,16,Lectures - Attendance,Heta lec 1t attendance blnwd bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S0215,P010,17,Lectures - Cancellation,Lecturers cancel da,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S0216,P010,18,Commuting,Thawa payak witharai yai,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S0217,P010,19,Notes - PDF Request,Mata ada lecturer note 1 dahnko,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S0218,P010,20,Wi-Fi Password Request ,Ube WiFi password 1 kypn,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S0219,P010,21,Food - Canteen Menu,cantin 1 monwd bn kanna tiyenne,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S0220,P010,22,Food - Let's Eat,Kamu,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S0441,P021,1,Academic Stress,hetm gniwid hlo assignment ek.ane mt kr gnn puluwn weid dn na mek.හෙටම ගනීවිද හලෝ එසයිමන්ට් එක.අනේ මට කරගන්න පුළුවන් වෙයිද දන්නෑ මේක,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Test
+S0442,P021,2,Campus Injustice,Ilga sen eke welwt apit me lecturer nh..ඊළඟ සෙම් එකේ වෙලාවට අපිට මේ ලෙච්චරර් නෑ,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Test
+S0443,P021,3,Campus Culture/Ragging,accdemic ekk ep wl thiyenne dn.ඇකඩමික් එක්ක එපා වෙලා තියෙන්නේ දැන් නම්.,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Test
+S0444,P021,4,Financial Stress,aioo dn mge ithur wd tik kr gnne komd?අයියෝ දැන් මගේ ඉතුරු වැඩ ටික කරගන්නෙ කොහොමද?,2,FINANCIAL_STRESS,Mixed Sinhala+Latin,Test
+S0445,P021,5,Logistics/Food Issues,Mew nm katwt knn ba.මේවනම් කාටවත් කන්න බැහැ,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Test
+S0447,P021,7,Isolation,mt mn witri. මට මං විතරයි,4,SOCIAL_ISOLATION,Mixed Sinhala+Latin,Test
+S0448,P021,8,Academic Success - Difficult Subject,mek nm mge luk ek thm.මේක නම් මගේ ලක් එක තමා.,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Test
+S0449,P021,9,Academic Success - Repeat Subject,deiyne...athi yntm god d gtha.දෙයියනේ ඇති යන්තම් ගොඩදා ගත්තා,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Test
+S0450,P021,10,Freedom-Final Paper,Yeh.mn nidhs ekth iwri.යේ මං නිදහස්.ඒකත් ඉවරයි,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Test
+S0451,P021,11,Lightness-Final Paper,Done😎ඩන්,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Test
+S0452,P021,12,Social Evant - Batch Trip,Jewithe lssn kle.ජීවිතයේ ලස්සන කාලේ,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Test
+S0453,P021,13,Social Evant - Campus Evant,Hamotm mem awastha lben na.හැමෝටම මෙහෙම අවස්ථා ලැබෙන්නේ නැහැ.,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Test
+S0454,P021,14,Personal Win - Stipand/Mahapola,Yeh...මහපොළ වැටිලා ..යෙහ්...මහපොළ වැටිලා,8,PERSONAL_WIN,Mixed Sinhala+Latin,Test
+S0455,P021,15,Personal Win - Internship,Mget podi luck ekk thiye bn.මගෙත් පොඩි ලක් එකක් තියේ බං.,8,PERSONAL_WIN,Mixed Sinhala+Latin,Test
+S0456,P021,16,Lectures - Attendance,Het attends aniwry bn.හෙට ඇටෙන්ඩර්ස් අනිවාර්යද බං,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Test
+S0457,P021,17,Lectures - Cancellation,Me hlo lecture ek cancke d මේ හලෝ ලෙක්චර් කැන්සල්ද,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Test
+S0458,P021,18,Commuting,Thw kochr dirk enn thiyenwd mt තව කොච්චර දුරක් එන්න තියෙනවද මට.,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Test
+S0459,P021,19,Notes - PDF Request,Hlo mt ad subject eke note ek pdf ekk widiht denko.හලෝ මට අද සබ්ජෙට් එකේ නෝට් එක පීඩීඑෆ් එකක් විදිහට දෙන්නකෝ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Test
+S0460,P021,20,Wi-Fi Password Request ,Mt wifi oassword ek denwd oyge මට වයිෆයි පාස්වල්ඩ් දෙක කියනවද ඔයාගේ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Test
+S0461,P021,21,Food - Canteen Menu,Ee mee ad dwlt canteen eke knn thiyene mond ඒ මේ අද කැන්ටින් එකේ දවල්ට කන්න තියෙන්නෙ මොනවද,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Test
+S0462,P021,22,Food - Let's Eat,දැන් ගිහින් කාලා එමු අපි dn gihin kla emu api,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Test
+S0463,P022,1,Academic Stress,Meka nam dan epa wela thiyenne,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S0464,P022,2,Campus Injustice,Me sirge wada nam mata penna baa epa wenawa,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S0465,P022,3,Campus Culture/Ragging,Meyala apita puduma stress ekak denne,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S0466,P022,4,Financial Stress,Salli keeyakwath na ane epa wenawa,2,FINANCIAL_STRESS,Latin/Romanized,Test
+S0467,P022,5,Logistics/Food Issues,Bodime inna epa wenawa kannath hariyata naa,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S0468,P022,6,Group Project Stress,Mata hema dema thaniyama karanna wela thiyenne,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S0469,P022,7,Isolation,Mata thanikamak daanenawa hema dema epa wela wage,4,SOCIAL_ISOLATION,Latin/Romanized,Test
+S0470,P022,8,Academic Success - Difficult Subject,Me subject ekata hodama results thiyenne mata e nisa godakm sathutui,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S0471,P022,9,Academic Success - Repeat Subject,Mn me subject eka hodatama pass welaoku nidahasak,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S0472,P022,10,Freedom-Final Paper,Loku nidahasak danenawa,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S0473,P022,11,Lightness-Final Paper,Project eka iwara karapu nisa loku sahalluwak danenawa,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S0474,P022,12,Social Evant - Batch Trip,Mara sathutak danenawa,7,SOCIAL_EVENT,Latin/Romanized,Test
+S0475,P022,13,Social Evant - Campus Evant,Marama athal ekak gaththa,7,SOCIAL_EVENT,Latin/Romanized,Test
+S0476,P022,14,Personal Win - Stipand/Mahapola,Ada nam salli hambuna godak sathutui,8,PERSONAL_WIN,Latin/Romanized,Test
+S0477,P022,15,Personal Win - Internship,Mata dream ekak wela thibuna place ekema internship eka set una,8,PERSONAL_WIN,Latin/Romanized,Test
+S0478,P022,16,Lectures - Attendance,Heta lecture ekata aniwaryenma yanna oned,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S0479,P022,17,Lectures - Cancellation,Heta lecture eka cancel wena ekak nadda,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S0480,P022,18,Commuting,Mata enna thawa paya 2 withara yawi,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S0481,P022,19,Notes - PDF Request,Mata eda lecture ekata enna bari una oyata notes tika ewanna puluwand,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S0482,P022,20,Wi-Fi Password Request ,Wi fi password eka mokakda kiyala kiyanna puluwand,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S0483,P022,21,Food - Canteen Menu,Ada lunch ekata monawada canteen eke thiyenne,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S0484,P022,22,Food - Let's Eat,Api dan gihin kala emuda,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S0815,P038,1,Academic Stress,Ane dan nam campus jiwithe epa wela thiyenne halo😂,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S0816,P038,2,Campus Injustice,Mun kohoma lecturesla unada mnda. man ynawa manawa himikam😂,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S0817,P038,3,Campus Culture/Ragging,Apitath kalayak eine edata balagamu😌,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S0818,P038,4,Financial Stress,Mehema idala hariynnh mokak hri karanna one kiyak hri hoyagnna,2,FINANCIAL_STRESS,Latin/Romanized,Test
+S0819,P038,5,Logistics/Food Issues,Me kama kala man thawath kettu wena eka witharai wenne😒,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S0820,P038,6,Group Project Stress,Man nathi una nam therei mun tikata. ekekge wath index dannh mage eka witharak dala submit karanwa😒,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S0821,P038,7,Isolation,Thaniyama inna eka thama hodama de,4,SOCIAL_ISOLATION,Latin/Romanized,Test
+S0822,P038,8,Academic Success - Difficult Subject,Deiyne deiyne nulen berila😂😂,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S0823,P038,9,Academic Success - Repeat Subject,Adeh 😌 math waddek enam😌 1st cls ekkma ganna one hodata wada karala😂,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S0824,P038,10,Freedom-Final Paper,Api yan dan awidinna😂,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S0825,P038,11,Lightness-Final Paper,Dobi dan nidahas😌,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S0826,P038,12,Social Evant - Batch Trip,Me athal ganna nam campus ennama oni😌,7,SOCIAL_EVENT,Latin/Romanized,Test
+S0827,P038,13,Social Evant - Campus Evant,Me wage dewal walata ennath api pin karane🥹❤️,7,SOCIAL_EVENT,Latin/Romanized,Test
+S0828,P038,14,Personal Win - Stipand/Mahapola,Adee mahapola watila😂,8,PERSONAL_WIN,Latin/Romanized,Test
+S0829,P038,15,Personal Win - Internship,Mata ara job eka set una ei..,8,PERSONAL_WIN,Latin/Romanized,Test
+S0830,P038,16,Lectures - Attendance,heta lectures yanna onemada bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S0831,P038,17,Lectures - Cancellation,Ada lectures nh kiyala msg ekk grp ekat dalada bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S0832,P038,18,Commuting,mata komath paya dekk ynawa halo rnna,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S0833,P038,19,Notes - PDF Request,Mata eda lecture eke karapu note eka dennako hlo,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S0834,P038,20,Wi-Fi Password Request ,Mata hotspot tikk dennako🤭,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S0835,P038,21,Food - Canteen Menu,Ada kanna monada thiyenne bn,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S0836,P038,22,Food - Let's Eat,Yaman kala emu,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1101,P051,1,Academic Stress,Ado ep weno bn,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1102,P051,2,Campus Injustice,Bninn bhne hithin bnjnw,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1103,P051,3,Campus Culture/Ragging,එත් හිතින් බනිනවා,1,CAMPUS_SAFETY_INJUSTICE,Sinhala Script,Test
+S1104,P051,4,Financial Stress,සින්දුවක් අහලා නටනවා,2,FINANCIAL_STRESS,Sinhala Script,Test
+S1105,P051,5,Logistics/Food Issues,බනිනව,3,DAILY_CAMPUS_LOGISTICS,Sinhala Script,Test
+S1106,P051,6,Group Project Stress,එපා වෙනවා රෙද්ද,0,ACADEMIC_STRESS,Sinhala Script,Test
+S1107,P051,7,Isolation,හැමෝම වාසියට,4,SOCIAL_ISOLATION,Sinhala Script,Test
+S1108,P051,8,Academic Success - Difficult Subject,පට්ට happy,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Test
+S1111,P051,11,Lightness-Final Paper,Sathutta knw mnhri,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S1112,P051,12,Social Evant - Batch Trip,සුපිරි යක් කියලා සින්දු කියනව්,7,SOCIAL_EVENT,Sinhala Script,Test
+S1113,P051,13,Social Evant - Campus Evant,සුපිරි යක් කියලා සින්දු කියනව්,7,SOCIAL_EVENT,Sinhala Script,Test
+S1114,P051,14,Personal Win - Stipand/Mahapola,සුපිරි යක් කියලා සින්දු කියනව්,8,PERSONAL_WIN,Sinhala Script,Test
+S1115,P051,15,Personal Win - Internship,වැඩේ හරි බන්,8,PERSONAL_WIN,Sinhala Script,Test
+S1116,P051,16,Lectures - Attendance,හෙට එන්නම ඔනේද,9,LECTURE_MANAGEMENT,Sinhala Script,Test
+S1117,P051,17,Lectures - Cancellation,අඩෝ ලෙක් තියානවද,9,LECTURE_MANAGEMENT,Sinhala Script,Test
+S1118,P051,18,Commuting,මන් මග තාම,3,DAILY_CAMPUS_LOGISTICS,Sinhala Script,Test
+S1119,P051,19,Notes - PDF Request,අඩෝ නොට් එක,10,CAMPUS_RESOURCE_REQUEST,Sinhala Script,Test
+S1120,P051,20,Wi-Fi Password Request ,"අඩෝ data,na",10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Test
+S1121,P051,21,Food - Canteen Menu,Canteen mnd thiynne,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1122,P051,22,Food - Let's Eat,Kala emu,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1277,P059,1,Academic Stress,Tikk stress. Eth awlk naa,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1278,P059,2,Campus Injustice,Eyakata kunuharpa dekk kiyala bannama stress ynw,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1279,P059,3,Campus Culture/Ragging,Naa,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1280,P059,4,Financial Stress,Balance ekk gahagnnw mn nn wiyadamath adu krn. Owa wadiya hithan naa,2,FINANCIAL_STRESS,Latin/Romanized,Test
+S1281,P059,5,Logistics/Food Issues,Ape campus eke cantima nn wdk naa,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S1282,P059,6,Group Project Stress,Aparade mekt awe kiyak hitheno. Mt nn,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1283,P059,7,Isolation,Ema wela naa mt,4,SOCIAL_ISOLATION,Latin/Romanized,Test
+S1284,P059,8,Academic Success - Difficult Subject,Ammo athi yanthan repeat nowi beruna,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1285,P059,9,Academic Success - Repeat Subject,Ema liyapu ekkwath results dla naa. Onna campus eke hoda kama 🥲,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1286,P059,10,Freedom-Final Paper,Ammo ekath iwari,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S1287,P059,11,Lightness-Final Paper,Awilla hodt nidagatta hama ekema,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S1288,P059,12,Social Evant - Batch Trip,Apo ape eke batch trip nn mt set naa..,7,SOCIAL_EVENT,Latin/Romanized,Test
+S1289,P059,13,Social Evant - Campus Evant,Athal hode,7,SOCIAL_EVENT,Latin/Romanized,Test
+S1290,P059,14,Personal Win - Stipand/Mahapola,Me mase gnn thina ewa nn hri,8,PERSONAL_WIN,Latin/Romanized,Test
+S1291,P059,15,Personal Win - Internship,Kiyaganna bri tharn sathutak danuna,8,PERSONAL_WIN,Latin/Romanized,Test
+S1292,P059,16,Lectures - Attendance,Ema ahala naa mn,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S1293,P059,17,Lectures - Cancellation,Ahh ada lec nadd,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S1294,P059,18,Commuting,Mm enne mage bike eke. Ek nisa mt oya prashna naa. My bike my petrol mt ona welawt mn enne 😂,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S1295,P059,19,Notes - PDF Request,Ewa godk illnne kellongen. Danno ne chatuwk dla illaganno,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S1296,P059,20,Wi-Fi Password Request ,Ado wifi password kiyhn,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S1297,P059,21,Food - Canteen Menu,Ado cantime monad dn na thinne ne ad. Poddk blpn. Ape eke nn ithin melo wdk nathi ewa thamai thinne,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1298,P059,22,Food - Let's Eat,Ema ms krl naa,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1344,P062,2,Campus Injustice,Katha nokara innawa,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1345,P062,3,Campus Culture/Ragging,Baninawa,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1347,P062,5,Logistics/Food Issues,Canteen ekata kiyanawa,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S1348,P062,6,Group Project Stress,Epa wela thiyenne,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1350,P062,8,Academic Success - Difficult Subject,Kagahala kiyanwa,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1351,P062,9,Academic Success - Repeat Subject,Adanawa,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1352,P062,10,Freedom-Final Paper,Trip ekak yanwa,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S1354,P062,12,Social Evant - Batch Trip,Supiri,7,SOCIAL_EVENT,Latin/Romanized,Test
+S1355,P062,13,Social Evant - Campus Evant,Supiri,7,SOCIAL_EVENT,Latin/Romanized,Test
+S1357,P062,15,Personal Win - Internship,Hoda ekak set una,8,PERSONAL_WIN,Latin/Romanized,Test
+S1358,P062,16,Lectures - Attendance,Heta lec ekakata enna onemada,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S1359,P062,17,Lectures - Cancellation,Ada lectures නැද්ද,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Test
+S1360,P062,18,Commuting,Ena gaman maga,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S1361,P062,19,Notes - PDF Request,Mata ara note tika danwada,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S1362,P062,20,Wi-Fi Password Request ,Router eka password eka dennako,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S1363,P062,21,Food - Canteen Menu,Canteen eke dawal monwda thibbe,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1364,P062,22,Food - Let's Eat,Kanna yan,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1387,P064,1,Academic Stress,Epa wenawa bn ara ude thiyena assignment eka mt karaganna bari unaane ada raama aharagena eeka karanna wenawa ehen job eke wada ehen assignment epa wela matanan,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1388,P064,2,Campus Injustice,Matanan therenne naa me lecturesla kohomada timetable hadanne kiyala hamadama welawata daanne naane,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1389,P064,3,Campus Culture/Ragging,Owun apita ohoma karanne apita kalin senior set ekak nathi hindane,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1390,P064,4,Financial Stress,"Matanan dan epa wela thiyenne bn athe sathayakwath naaa... Kannawath salli naa athe, bodime sallith danna one mtnn therenne naaa",2,FINANCIAL_STRESS,Latin/Romanized,Test
+S1391,P064,5,Logistics/Food Issues,Campus eke bath ekanan melo therumak naa... Bath idilath naa malupini rasath naa... Eliyen ganna eka thamayi honda,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S1392,P064,6,Group Project Stress,Mewun ekekwath wada karanne naane bn kohomada bn thawath 4 denekge wada mn mage wadath ekka karanne? Mt mage wada tika manage kragannath baa,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1393,P064,7,Isolation,Mata ithin sallith nane eekane un ohoma karanne. Mawa one wenne unta uwamanawak unama witharayi,4,SOCIAL_ISOLATION,Latin/Romanized,Test
+S1394,P064,8,Academic Success - Difficult Subject,Mannan hithuwewath naa meka pass wei kiyala ee unaata B ekk thiyenw kiyanne pudumayi,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1395,P064,9,Academic Success - Repeat Subject,athi yanthan mee parawath goda giyaaa naththan me magula aaye liyanna epayi,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1396,P064,10,Freedom-Final Paper,ambe iwarayi meka thama hisa radekata thibbe dn eekath iwarane,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S1397,P064,11,Lightness-Final Paper,Project ek iwara karagathtu eknn lokuu deyak naththan eelanga semester eketh karanna wennne,6,FINAL_PAPER_RELIEF,Latin/Romanized,Test
+S1398,P064,12,Social Evant - Batch Trip,Me wage ithin aaye kawada yannada batch trip eka thiyenne campus jiwithe witharane,7,SOCIAL_EVENT,Latin/Romanized,Test
+S1399,P064,13,Social Evant - Campus Evant,Mewa ithin campus life eke thiyena dewalne meewa aaye jeewithe ganna bari dewal,7,SOCIAL_EVENT,Latin/Romanized,Test
+S1400,P064,14,Personal Win - Stipand/Mahapola,Matanan stipend eka watila thibba bn deyiyane kiyala lap eke upgrades tika krgnn puluwan,8,PERSONAL_WIN,Latin/Romanized,Test
+S1401,P064,15,Personal Win - Internship,Mekata keeparaknan dangaluwada panaganna anthimeta meparanan chance ekak awith,8,PERSONAL_WIN,Latin/Romanized,Test
+S1402,P064,16,Lectures - Attendance,Eee bn heta lecture ekt ynnm oned bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S1403,P064,17,Lectures - Cancellation,Eee ara lecture ek cancel welada bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Test
+S1404,P064,18,Commuting,Mn me bus eke maradane inne bn thawa paya bhagayakwath yai enna,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Test
+S1405,P064,19,Notes - PDF Request,Eee bn mt ara lecture ekt enn bari unaane umbata puluwanda eeke pdf eka mt ewanna,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S1406,P064,20,Wi-Fi Password Request ,Eee mata poddakata umbe wifi password eka diyanko,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Test
+S1407,P064,21,Food - Canteen Menu,Eee bn canteen eke dawalta kanna monaada thiyenne kiyala balapankoo,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1408,P064,22,Food - Let's Eat,ade waren kaala imu ooka passe karamu,11,FOOD_AND_CANTEEN,Latin/Romanized,Test
+S1475,P068,1,Academic Stress,Heta match ekak Gagamu bn api,0,ACADEMIC_STRESS,Latin/Romanized,Test
+S1476,P068,2,Campus Injustice,Lecture campus eken Pannala,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1477,P068,3,Campus Culture/Ragging,Eliyedi bala gnnnawa athuledi witharane Raganna puluwan,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Test
+S1482,P068,8,Academic Success - Difficult Subject,Pass bn,5,ACADEMIC_SUCCESS,Latin/Romanized,Test
+S1483,P068,9,Academic Success - Repeat Subject,Ado pass,5,ACADEMIC_SUCCESS,Latin/Romanized,Test

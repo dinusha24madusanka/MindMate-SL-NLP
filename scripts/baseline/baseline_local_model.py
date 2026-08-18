@@ -116,7 +116,7 @@ model.fit(
     y_train
 )
 
-print("Training complete ✅")
+print("Training complete")
 
 
 # =====================================================
@@ -193,7 +193,7 @@ print(
 )
 
 
-print("\nBASELINE MODEL COMPLETE ✅")
+print("\nBASELINE MODEL COMPLETE")
 
 
 from sklearn.metrics import precision_recall_fscore_support

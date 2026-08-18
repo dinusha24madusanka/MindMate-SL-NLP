@@ -1,0 +1,197 @@
+Sample_ID,Participant_ID,Scenario_ID,Scenario_Name,Clean_Text,Intent_ID,Intent_Name,Script_Type,Dataset_Split
+S0023,P002,1,Academic Stress,පුදුම stress එකක්නෙ,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S0024,P002,2,Campus Injustice,මාර කේන්ති මට,1,CAMPUS_SAFETY_INJUSTICE,Sinhala Script,Validation
+S0025,P002,3,Campus Culture/Ragging,වදයක් නේ මාර තරහක් එන්නෙ,1,CAMPUS_SAFETY_INJUSTICE,Sinhala Script,Validation
+S0026,P002,4,Financial Stress,එපාවෙලා තියෙන්නේ හැමදාම සල්ලි නැ,2,FINANCIAL_STRESS,Sinhala Script,Validation
+S0027,P002,5,Logistics/Food Issues,මෙලො රහක් නැ කන්න හිතෙන්නැ,3,DAILY_CAMPUS_LOGISTICS,Sinhala Script,Validation
+S0028,P002,6,Group Project Stress,Contribution නම් බලාපොරොත්තු වෙන්න එපා මට තනියම වැඩ කරන්න බැ නෙ,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S0029,P002,7,Isolation,පාඩුවෙ හිටියනම් ඉවරයි,4,SOCIAL_ISOLATION,Sinhala Script,Validation
+S0030,P002,8,Academic Success - Difficult Subject,හිතුවෙ නැ නෙ මෙච්චර හොද රිසල්ට් එකක් එයි කියල,5,ACADEMIC_SUCCESS,Sinhala Script,Validation
+S0031,P002,9,Academic Success - Repeat Subject,අම්මො ඔයින් ගියා මදැයි,5,ACADEMIC_SUCCESS,Sinhala Script,Validation
+S0032,P002,10,Freedom-Final Paper,අම්මො ලොකු දෙයක්,6,FINAL_PAPER_RELIEF,Sinhala Script,Validation
+S0033,P002,11,Lightness-Final Paper,යන්තම් ඒකත් ඉවරයි,6,FINAL_PAPER_RELIEF,Sinhala Script,Validation
+S0034,P002,12,Social Evant - Batch Trip,Fun තමයි,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S0035,P002,13,Social Evant - Campus Evant,සුපිරි ඉතිං,7,SOCIAL_EVENT,Sinhala Script,Validation
+S0036,P002,14,Personal Win - Stipand/Mahapola,සල්ලි වැටිලා,8,PERSONAL_WIN,Sinhala Script,Validation
+S0037,P002,15,Personal Win - Internship,කල් ගියා හැබැයි හොද internship එකක් හම්බුනෙ,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S0038,P002,16,Lectures - Attendance,මේ හෙට attendance අනිවාර්ය ද,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S0039,P002,17,Lectures - Cancellation,⁣lectures cancel ද,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S0040,P002,18,Commuting,තව ටිකක් දුරයි පැය දෙකක් වගෙ යයි,3,DAILY_CAMPUS_LOGISTICS,Sinhala Script,Validation
+S0041,P002,19,Notes - PDF Request,ඔයා ලග note ඔක්කොම තියනවද,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S0042,P002,20,Wi-Fi Password Request ,ඒ මට wifi password එක දෙනවද ඩේ⁣ට නැ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S0043,P002,21,Food - Canteen Menu,දවල්ට කන්න කැන්ටින් එකෙ මොනාද දන්නැ තියෙන්නෙ,11,FOOD_AND_CANTEEN,Sinhala Script,Validation
+S0044,P002,22,Food - Let's Eat,කාල එමු,11,FOOD_AND_CANTEEN,Sinhala Script,Validation
+S0133,P007,1,Academic Stress,Ane Manda meka karaganna puluwan weida,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S0134,P007,2,Campus Injustice,Matanam maara kenthi,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S0135,P007,3,Campus Culture/Ragging,Pissu modayo tikak,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S0136,P007,4,Financial Stress,Ane Manda athe Sathe na,2,FINANCIAL_STRESS,Latin/Romanized,Validation
+S0137,P007,5,Logistics/Food Issues,Iiya Mona jara kamakda manda,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S0138,P007,6,Group Project Stress,Matanam Dan epa wela thiyenne,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S0139,P007,7,Isolation,Mehemanam harima calm,4,SOCIAL_ISOLATION,Latin/Romanized,Validation
+S0140,P007,8,Academic Success - Difficult Subject,Wow matanam hithagannawath ba,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S0141,P007,9,Academic Success - Repeat Subject,Ane athinyantham,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S0142,P007,10,Freedom-Final Paper,Ammoh maara nidahasne,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S0143,P007,11,Lightness-Final Paper,Ammoh athi yantham,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S0144,P007,12,Social Evant - Batch Trip,Pattaneh,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S0145,P007,13,Social Evant - Campus Evant,Ade Maru ban,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S0146,P007,14,Personal Win - Stipand/Mahapola,Ammoh finally I got the money,8,PERSONAL_WIN,Latin/Romanized,Validation
+S0147,P007,15,Personal Win - Internship,Awww....man harima lucky,8,PERSONAL_WIN,Latin/Romanized,Validation
+S0148,P007,16,Lectures - Attendance,Beta lectures aniwa enna oneda,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S0149,P007,17,Lectures - Cancellation,Ada lectures thiyanawada cancelda?,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S0150,P007,18,Commuting,Thawa tika welawak YAI...man thama methana,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S0151,P007,19,Notes - PDF Request,Ado mata ara note eka denwada,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S0152,P007,20,Wi-Fi Password Request ,Ado ube wifi password eka dipanko,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S0153,P007,21,Food - Canteen Menu,Monawada lunch ekata denne,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S0154,P007,22,Food - Let's Eat,Warenko kanna,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S0353,P017,1,Academic Stress,Ada meka iwr krgnna pluwn weida අද මේක ඉවර කරගන්න පුළුවන් වෙයිද,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S0354,P017,2,Campus Injustice,Yaluwta kiynwa යාලුවට කියනවා,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Validation
+S0355,P017,3,Campus Culture/Ragging,Muhuna dila na මුහුණ දීල නෑ,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Validation
+S0356,P017,4,Financial Stress,මන් ගාව සතයක්වත් නෑ Mn gawa sathykwt na,2,FINANCIAL_STRESS,Mixed Sinhala+Latin,Validation
+S0357,P017,5,Logistics/Food Issues,කන්නේ නෑ Kanne na,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Validation
+S0358,P017,6,Group Project Stress,අනිත් අය එක්ක කේන්තියෙන් වැඩ කිරීම Anith aya ekka kenthiyen wada kirima,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S0359,P017,7,Isolation,Mata epa wela tyenne bn මට එපා වෙලා තියෙන්නේ බන්,4,SOCIAL_ISOLATION,Mixed Sinhala+Latin,Validation
+S0360,P017,8,Academic Success - Difficult Subject,යාලුවට කියනවා සතුට Yaluwta koyanwa sathuta,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Validation
+S0361,P017,9,Academic Success - Repeat Subject,Ade bn eka pass wela kiyla yaluwta kiyanwa අඩේ බන් ඒක පාස් වෙලා කියල යාලුවට කියනවා,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Validation
+S0362,P017,10,Freedom-Final Paper,Man dan free මන් දැන් ෆ්‍රී,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Validation
+S0363,P017,11,Lightness-Final Paper,Man komahri eka iwara kra bn kiyla yaluwta kiynwa මම කෝමහ්‍රි ඒක ඉවර කරා බන් කොයලා යාලුවට කියනවා,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Validation
+S0364,P017,12,Social Evant - Batch Trip,Godak sathutui ගොඩක් සතුටුයි,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S0365,P017,13,Social Evant - Campus Evant,සතුටුයි Sathutui,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S0366,P017,14,Personal Win - Stipand/Mahapola,Ade mata salli watila අඩේ මට සල්ලි වැටිලා,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S0367,P017,15,Personal Win - Internship,මට ඉන්ටර්න් එකක් හරිගියා බන් Mata intern ekak hrigiya bn,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S0368,P017,16,Lectures - Attendance,Heta ynnama onid bn හෙට යන්නම ඕනි ද බන්,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S0369,P017,17,Lectures - Cancellation,අද නැද්ද බන් Ada nadda bn,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S0370,P017,18,Commuting,Mata enna wela yai bn මට එන්න වෙලා යයි බන්,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Validation
+S0371,P017,19,Notes - PDF Request,මට අරකේ නෝට් ටික දෙන්නකෝ Mata arke note tika dennako,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S0372,P017,20,Wi-Fi Password Request ,Mata wifi password eka dennko මට වයිෆයි පාස්වර්ඩ් එක දෙන්නකෝ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S0373,P017,21,Food - Canteen Menu,මොනාද බන් කැන්ටින් එකේ තියෙන කෑම Monada bn canteen eke tyena kama,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Validation
+S0374,P017,22,Food - Let's Eat,කන්න යමන් Knna ymn,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Validation
+S0507,P024,1,Academic Stress,Mtnm mew ep wel thiyenne bm,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S0508,P024,2,Campus Injustice,Me wge klknni mi hrk ennkm me campus hdnn b bm,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S0509,P024,3,Campus Culture/Ragging,Psse blgmu,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S0510,P024,4,Financial Stress,Athe sth phk ne mon krnnd itin,2,FINANCIAL_STRESS,Latin/Romanized,Validation
+S0511,P024,5,Logistics/Food Issues,Mew knwt wd hodi punnkku knw,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S0512,P024,6,Group Project Stress,Hri shook very good,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S0513,P024,7,Isolation,Thamnt hemdm thmn withrmi,4,SOCIAL_ISOLATION,Latin/Romanized,Validation
+S0514,P024,8,Academic Success - Difficult Subject,Mt hith gnn b bn,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S0515,P024,9,Academic Success - Repeat Subject,Mru oii,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S0516,P024,10,Freedom-Final Paper,Serm ewri ammo,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S0517,P024,11,Lightness-Final Paper,Hem mgulm ewri den mn nidhs,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S0518,P024,12,Social Evant - Batch Trip,Mehem dwsk ay enwnm,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S0519,P024,13,Social Evant - Campus Evant,Me dws ewr un neththm hodi neh,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S0520,P024,14,Personal Win - Stipand/Mahapola,Ad bomud,8,PERSONAL_WIN,Latin/Romanized,Validation
+S0521,P024,15,Personal Win - Internship,Mm hithuwe n bn ado ptt sthutui,8,PERSONAL_WIN,Latin/Romanized,Validation
+S0522,P024,16,Lectures - Attendance,Het lecture ekt attemdence dnn onimd bm,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S0523,P024,17,Lectures - Cancellation,Het lecture thiynwd bm,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S0524,P024,18,Commuting,Mm enkot me welw wge wei bm,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S0525,P024,19,Notes - PDF Request,Ado ar lecture eke note ek dko,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S0526,P024,20,Wi-Fi Password Request ,Ado wifi password ek diko,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S0527,P024,21,Food - Canteen Menu,Ad dwlt mond bm knne,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S0528,P024,22,Food - Let's Eat,Kmu ned bm,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S1079,P050,1,Academic Stress,Harima Amarui mona karandada.,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S1080,P050,2,Campus Injustice,"Godak dhukai, api mona karandada? Api wadiya kiyewwoth fine gahanawa.",1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S1081,P050,3,Campus Culture/Ragging,Rag nam naha habei,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S1082,P050,4,Financial Stress,Ow. Shape eke thamai gama gahanne,2,FINANCIAL_STRESS,Latin/Romanized,Validation
+S1083,P050,5,Logistics/Food Issues,Ow. Wena ithin kanda gendath nahane.,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S1084,P050,6,Group Project Stress,Ow e nisa ape wade api ikmanata managekaragada one,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S1085,P050,7,Isolation,Ow,4,SOCIAL_ISOLATION,Latin/Romanized,Validation
+S1086,P050,8,Academic Success - Difficult Subject,Ow sathutui,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S1087,P050,9,Academic Success - Repeat Subject,Maarai,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S1088,P050,10,Freedom-Final Paper,Supiri,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S1089,P050,11,Lightness-Final Paper,Loku barak nidhahas una wage,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S1090,P050,12,Social Evant - Batch Trip,Eka wenama athal ekak,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S1091,P050,13,Social Evant - Campus Evant,Maru,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S1092,P050,14,Personal Win - Stipand/Mahapola,Ow eka maru,8,PERSONAL_WIN,Latin/Romanized,Validation
+S1093,P050,15,Personal Win - Internship,Eka loku jayagrahanayak,8,PERSONAL_WIN,Latin/Romanized,Validation
+S1094,P050,16,Lectures - Attendance,Attendance balanawada bn lectures walata,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S1095,P050,17,Lectures - Cancellation,Lectuers cansel unaada,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S1096,P050,18,Commuting,Kochchara wela yanawada,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S1097,P050,19,Notes - PDF Request,Machan notes tikak dhipankoo,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S1098,P050,20,Wi-Fi Password Request ,Paassword eka mokakda,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S1099,P050,21,Food - Canteen Menu,Monada dhawalta thiyenne kamata,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S1100,P050,22,Food - Let's Eat,Kaala emu api,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S1123,P052,1,Academic Stress,A me bn මට epa wela thiyenne bn😐,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S1124,P052,2,Campus Injustice,Monawada me katha wada,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S1125,P052,3,Campus Culture/Ragging,Munge රැනම් dan onawata wadi,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Validation
+S1126,P052,4,Financial Stress,Athe sathe na dan හිගාකන්න තමා වෙන්නෙ,2,FINANCIAL_STRESS,Mixed Sinhala+Latin,Validation
+S1127,P052,5,Logistics/Food Issues,උයන ekaata රසට උයන්න බැරිද,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Validation
+S1128,P052,6,Group Project Stress,Me grup eke inna ekenektawath barida poddak hoyala balala udaw karanna .man okkoma thaniyama karanna oneda 🤨,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S1129,P052,7,Isolation,Mata kawuruth one na,4,SOCIAL_ISOLATION,Latin/Romanized,Validation
+S1130,P052,8,Academic Success - Difficult Subject,අඩේ mata hithagannawath බෑ.මං පාස් වෙලා හොඳටම 😁,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Validation
+S1131,P052,9,Academic Success - Repeat Subject,අම්මෝ ඇතියාන්නම් පාස් වෙලා 😁,5,ACADEMIC_SUCCESS,Sinhala Script,Validation
+S1132,P052,10,Freedom-Final Paper,ඒකත් ඉවරයි 🥲puduma sahalluwak danenne,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Validation
+S1133,P052,11,Lightness-Final Paper,බොබී දැන් නිදහස් 😁😁,6,FINAL_PAPER_RELIEF,Sinhala Script,Validation
+S1134,P052,12,Social Evant - Batch Trip,මේකනම් කවදාවත් අමතක වෙන්නෙ නෑ bn,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S1135,P052,13,Social Evant - Campus Evant,Patta ආතල් බන්,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S1136,P052,14,Personal Win - Stipand/Mahapola,අපි දැන් පෝසත් මිනිස්සු bn 😁,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S1137,P052,15,Personal Win - Internship,Mata job eka සෙට් උනා bn .mara sathutui,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S1138,P052,16,Lectures - Attendance,හෙට yannama oneda bn 😐,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S1139,P052,17,Lectures - Cancellation,lecture Thiyanawada bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S1140,P052,18,Commuting,Mn thama maga inne bn .enna thawa payakwath yai,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S1141,P052,19,Notes - PDF Request,Me bn mata iye lecture note eka ewannako,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S1142,P052,20,Wi-Fi Password Request ,A me WiFi tikak diyanko,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S1143,P052,21,Food - Canteen Menu,Ada monawada bn කන්න තියෙන්නෙ 🫤,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Validation
+S1144,P052,22,Food - Let's Eat,වරෙන් කන්න yanna,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Validation
+S1255,P058,1,Academic Stress,"Aio epa wenwa appa meka karanna, අයියෝ එපා වෙනව අප්පා මේක කරන්න",0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S1256,P058,2,Campus Injustice,Mn hituwe na e madam ehemai kiyla. මං හිතුවෙනම් නෑ ඒ මැඩම් එහෙමයි කියල.,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Validation
+S1257,P058,3,Campus Culture/Ragging,Ape juniuors latanam rag karanna on na. අපේ ජූනියර්ස්ලටනම් රැග් කරන්න ඕන නෑ,1,CAMPUS_SAFETY_INJUSTICE,Mixed Sinhala+Latin,Validation
+S1258,P058,4,Financial Stress,Dan nm hidila. දැන් නම් හිදිලා,2,FINANCIAL_STRESS,Mixed Sinhala+Latin,Validation
+S1259,P058,5,Logistics/Food Issues,Adha wena kohen hari kamuda? Meken nathuwa .අද වෙන කොහෙන් හරි කමුද? මේකෙන් නැතුව,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Validation
+S1260,P058,6,Group Project Stress,Anthimata itin kaurut na. අන්තිමට ඉතින් කවුරුත් නෑ.,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S1262,P058,8,Academic Success - Difficult Subject,Ammo athi yantham man hituwenm na pas weyi kiyala. අම්මෝ ඇති යන්තම් මං හිතුවෙනම් නෑ පාස් වෙයි කියල,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Validation
+S1263,P058,9,Academic Success - Repeat Subject,Oin giya madai. ඔයින් ගියා මදැයි.,5,ACADEMIC_SUCCESS,Mixed Sinhala+Latin,Validation
+S1264,P058,10,Freedom-Final Paper,Ammo danena nidahasa. අම්මෝ දැනෙන නිදහස,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Validation
+S1265,P058,11,Lightness-Final Paper,Ekath iwarai. ඒකත් ඉවරයි,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Validation
+S1266,P058,12,Social Evant - Batch Trip,. E maru ned matanm heta wenakam iwasillak na. ඒ මරු නේද මටනම් හෙට වෙනකම් ඉවසිල්ලක් නෑ,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S1267,P058,13,Social Evant - Campus Evant,Katta kawata maru ned. කට්ට කෑවට මරු නේද,7,SOCIAL_EVENT,Mixed Sinhala+Latin,Validation
+S1268,P058,14,Personal Win - Stipand/Mahapola,E watila neda. ඒ වැටිල නේද,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S1270,P058,16,Lectures - Attendance,E heta yannama onada appa. ඒ හෙට යන්නම ඕනද අප්පා,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S1271,P058,17,Lectures - Cancellation,E ada lec nadda. ඒ අද ලෙක් නැද්ද,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S1272,P058,18,Commuting,Me man inne thama gampaha mata winadu 20 k wage yai enna hode. මේ මන් ඉන්නෙ තාම ගම්පහ මට විනාඩි 20 ක් වගේ යයි එන්න හොදේ,3,DAILY_CAMPUS_LOGISTICS,Mixed Sinhala+Latin,Validation
+S1273,P058,19,Notes - PDF Request,Me halo mata CLD note eka ewannako. මේ හලෝ මර CLD නෝට් එක එවන්නකෝ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S1274,P058,20,Wi-Fi Password Request ,Password eka kiyapanko. පාස්වර්ඩ් එක කියපන්කෝ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S1275,P058,21,Food - Canteen Menu,E ban monda ada kanna tiyennr canteen eke. ඒ බං මොනවද අද කන්න තියෙන්නෙ කැන්ටින් එකේ,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Validation
+S1276,P058,22,Food - Let's Eat,Kala imuko. කාලා ඉමුකෝ,11,FOOD_AND_CANTEEN,Mixed Sinhala+Latin,Validation
+S1321,P061,1,Academic Stress,හෙට submit කරන්න Assingnment එකක් තියනවා බන්. එපා වෙනවා,0,ACADEMIC_STRESS,Mixed Sinhala+Latin,Validation
+S1322,P061,2,Campus Injustice,යාලුවන් එක්ක වෙච්ච සිද්දියට කලකිරීමෙන් කතා කරනවා,1,CAMPUS_SAFETY_INJUSTICE,Sinhala Script,Validation
+S1323,P061,3,Campus Culture/Ragging,ඔවුන්ට කේන්තියෙන් වෙනත් අය සමග කතා කරනවා,1,CAMPUS_SAFETY_INJUSTICE,Sinhala Script,Validation
+S1324,P061,4,Financial Stress,සල්ලි කීයක්වත් නෑ බන්,2,FINANCIAL_STRESS,Sinhala Script,Validation
+S1325,P061,5,Logistics/Food Issues,මේ කෑම කන්නේ කොහොමද,3,DAILY_CAMPUS_LOGISTICS,Sinhala Script,Validation
+S1326,P061,6,Group Project Stress,එකෙක්වත් උදව් කරන්නෑ ඔක්කොම මම කරන්න ඕනී.,0,ACADEMIC_STRESS,Sinhala Script,Validation
+S1327,P061,7,Isolation,එපා වෙන්වා බන්,4,SOCIAL_ISOLATION,Sinhala Script,Validation
+S1328,P061,8,Academic Success - Difficult Subject,අඩෝ මන් පාස්,5,ACADEMIC_SUCCESS,Sinhala Script,Validation
+S1329,P061,9,Academic Success - Repeat Subject,මේ පාර නම් ගොඩ්,5,ACADEMIC_SUCCESS,Sinhala Script,Validation
+S1330,P061,10,Freedom-Final Paper,ඒකත් ඉවරයි,6,FINAL_PAPER_RELIEF,Sinhala Script,Validation
+S1331,P061,11,Lightness-Final Paper,මාර stress එකේ හිටියේ මේක ඉවර කරනකම්,6,FINAL_PAPER_RELIEF,Mixed Sinhala+Latin,Validation
+S1332,P061,12,Social Evant - Batch Trip,කට්ටියම සුපිරි ආතල් එකක් ගමු,7,SOCIAL_EVENT,Sinhala Script,Validation
+S1333,P061,13,Social Evant - Campus Evant,සුපිරි නේ බන් අද නම් ආතල්,7,SOCIAL_EVENT,Sinhala Script,Validation
+S1334,P061,14,Personal Win - Stipand/Mahapola,අද පාටියක් දාමු,8,PERSONAL_WIN,Sinhala Script,Validation
+S1335,P061,15,Personal Win - Internship,අඩෝ intern එකට හොද company එකක් සෙට් උනා බන්,8,PERSONAL_WIN,Mixed Sinhala+Latin,Validation
+S1336,P061,16,Lectures - Attendance,හෙට lecture එකේ attendance බලනවාද බන්. යන්නම ඕනේද,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S1337,P061,17,Lectures - Cancellation,Lectures තියනවද බන්,9,LECTURE_MANAGEMENT,Mixed Sinhala+Latin,Validation
+S1338,P061,18,Commuting,මන් තාම බස් එකේ බන්. තව පැයක් වගේ යයි,3,DAILY_CAMPUS_LOGISTICS,Sinhala Script,Validation
+S1339,P061,19,Notes - PDF Request,මචන් ගිය සතියේ lecture pdf තියනවා නම දාපන්කෝ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S1340,P061,20,Wi-Fi Password Request ,මේ මේකේ password එක දියන්කෝ,10,CAMPUS_RESOURCE_REQUEST,Mixed Sinhala+Latin,Validation
+S1341,P061,21,Food - Canteen Menu,කැන්ටීන් එකේ මොනවාද තියෙන්නෙ,11,FOOD_AND_CANTEEN,Sinhala Script,Validation
+S1342,P061,22,Food - Let's Eat,යමන් කාලා එමු,11,FOOD_AND_CANTEEN,Sinhala Script,Validation
+S1409,P065,1,Academic Stress,Epa wenw,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S1410,P065,2,Campus Injustice,Epa wenwa redda,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S1411,P065,3,Campus Culture/Ragging,Denna thiynne muta,1,CAMPUS_SAFETY_INJUSTICE,Latin/Romanized,Validation
+S1412,P065,4,Financial Stress,Athe sathe neh,2,FINANCIAL_STRESS,Latin/Romanized,Validation
+S1413,P065,5,Logistics/Food Issues,Melo rahak ne,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S1414,P065,6,Group Project Stress,One reddk krgnin damala ghahala yanawa redda,0,ACADEMIC_STRESS,Latin/Romanized,Validation
+S1415,P065,7,Isolation,Ane mata moko,4,SOCIAL_ISOLATION,Latin/Romanized,Validation
+S1416,P065,8,Academic Success - Difficult Subject,Ammatasiri pass oii,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S1417,P065,9,Academic Success - Repeat Subject,Supuriyak thma,5,ACADEMIC_SUCCESS,Latin/Romanized,Validation
+S1418,P065,10,Freedom-Final Paper,Hammo Dobi dn nidahs,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S1419,P065,11,Lightness-Final Paper,A karadareth iwarai,6,FINAL_PAPER_RELIEF,Latin/Romanized,Validation
+S1420,P065,12,Social Evant - Batch Trip,Supiri bn,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S1421,P065,13,Social Evant - Campus Evant,Ammo eka,7,SOCIAL_EVENT,Latin/Romanized,Validation
+S1422,P065,14,Personal Win - Stipand/Mahapola,Api dn kotipathiyo bn,8,PERSONAL_WIN,Latin/Romanized,Validation
+S1423,P065,15,Personal Win - Internship,Hammooo,8,PERSONAL_WIN,Latin/Romanized,Validation
+S1424,P065,16,Lectures - Attendance,Ado heta arkata ynna epei,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S1425,P065,17,Lectures - Cancellation,Ado lec eka canceld bn,9,LECTURE_MANAGEMENT,Latin/Romanized,Validation
+S1426,P065,18,Commuting,Mn eddi peyak withr ywi,3,DAILY_CAMPUS_LOGISTICS,Latin/Romanized,Validation
+S1427,P065,19,Notes - PDF Request,Ada ara note tika dapn,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S1428,P065,20,Wi-Fi Password Request ,Me hostpot tikk dipn,10,CAMPUS_RESOURCE_REQUEST,Latin/Romanized,Validation
+S1429,P065,21,Food - Canteen Menu,Arake monwada ada knna thiynne,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
+S1430,P065,22,Food - Let's Eat,Kmuda,11,FOOD_AND_CANTEEN,Latin/Romanized,Validation
