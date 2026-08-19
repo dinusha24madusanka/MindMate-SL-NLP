@@ -414,7 +414,7 @@ with open(
 
 
 print("\n======================================")
-print("XLM-RoBERTa TRAINING COMPLETE ✅")
+print("XLM-RoBERTa TRAINING COMPLETE")
 print("======================================")
 
 print(

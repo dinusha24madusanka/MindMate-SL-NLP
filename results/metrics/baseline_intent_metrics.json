@@ -1,0 +1,11 @@
+{
+    "model": "Word + Character TF-IDF + Logistic Regression",
+    "task": "12-class intent classification",
+    "test_accuracy": 0.653179190751445,
+    "macro_precision": 0.6807712984183573,
+    "macro_recall": 0.6416365157173981,
+    "macro_f1": 0.6532437501487353,
+    "weighted_precision": 0.6993798307552133,
+    "weighted_recall": 0.653179190751445,
+    "weighted_f1": 0.6676239677436262
+}

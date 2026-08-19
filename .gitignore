@@ -16,3 +16,48 @@ __pycache__/
 
 # Environment variables
 .env
+
+# ==============================
+# Python virtual environments
+# ==============================
+.venv/
+.venv312/
+venv/
+env/
+
+# ==============================
+# Python cache
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# IDE / OS files
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Python test/cache
+# ==============================
+.pytest_cache/
+.mypy_cache/
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# XLM-RoBERTa training checkpoints
+# ==============================
+models/xlm_roberta/checkpoints/
+models/xlm_roberta/checkpoints_v2/
+
+# Training optimizer states
+models/**/optimizer.pt
+
+models/xlm_roberta/final_model/model.safetensors
